@@ -27,5 +27,5 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: (ضع الرابط هنا)
-- Email: (ضع إيميلك هنا)
+- LinkedIn: https://www.linkedin.com/in/abdullah-seraj/
+- Email: serajs.net@gmail.com
