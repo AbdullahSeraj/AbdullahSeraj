@@ -1,111 +1,173 @@
-# 🤖 AI Engineer | Full Stack Developer
+# 👨‍💻 Abdullah Seraj Aladdin — AI Engineer | Senior AI Developer | Machine Learning Specialist
 
-Welcome to my GitHub profile!  
-I am an AI Engineer and Full Stack Developer focused on building intelligent, scalable, and production-ready applications using Artificial Intelligence and modern software engineering practices.
+Welcome to my professional portfolio repository.
 
----
-
-## 🚀 About Me
-
-I specialize in developing AI-powered systems that combine Machine Learning, Large Language Models (LLMs), and full-stack development. My goal is to build real-world solutions that improve automation, decision-making, and user experience.
-
-I enjoy working on end-to-end projects — from backend systems and APIs to AI models and user interfaces.
+This README represents my CV, experience, skills, and projects in the field of Artificial Intelligence, Machine Learning, and Full Stack Development.
 
 ---
 
-## 🧠 Core Interests
+## 📍 Contact Information
 
-- Artificial Intelligence (AI)
-- Machine Learning & Deep Learning
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Generative AI
-- Full Stack Web Development
-- AI Automation Systems
+- 📞 Phone: +90-501-336-25-11  
+- 📧 Email: serajs.net@gmail.com  
+- 📍 Location: Istanbul, Turkey  
+- 🌐 Website: sarajs.online  
+- 🔗 GitHub: github.com/AbdullahSeraj  
 
 ---
 
-## 🛠️ Tech Stack
+## 👤 Profile
 
-### 👨‍💻 Programming Languages
-- Python
-- JavaScript
-- TypeScript
-- SQL
+Experienced AI Engineer and Full Stack Developer specializing in Artificial Intelligence, Machine Learning, and Large Language Models (LLMs). I focus on building scalable, intelligent, and production-ready systems using modern AI technologies.
 
-### 🤖 AI / ML
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Hugging Face
-- LangChain
+My expertise includes designing and deploying AI-powered applications, developing automation systems, integrating APIs, and building end-to-end solutions that combine AI with software engineering.
 
-### 🌐 Backend & APIs
-- FastAPI
-- Node.js
-- REST APIs
-- OpenAI API
-
-### 🎨 Frontend
-- React.js
-- Next.js
-- HTML / CSS
-
-### ☁️ Tools & DevOps
-- Git & GitHub
-- Docker
-- Linux
-- AWS Basics
-- CI/CD
+I am passionate about Generative AI, NLP, and building real-world AI systems that deliver measurable business value.
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Skills
 
-### 🤖 AI Assistant Platform
-An AI-powered assistant that uses LLMs and RAG architecture to answer questions, analyze documents, and automate tasks.
+### 🤖 Artificial Intelligence & Machine Learning
+Machine Learning, Deep Learning, NLP, LLMs, Generative AI, Computer Vision, Predictive Analytics, Reinforcement Learning, Prompt Engineering, AI Automation Systems
+
+### 💻 Programming Languages
+Python, JavaScript, TypeScript, SQL, NoSQL, Bash, Node.js, Java
+
+### 🧰 AI Frameworks & Libraries
+TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers, LangChain, OpenCV, Pandas, NumPy
+
+### ☁️ Cloud & DevOps
+AWS, Docker, Kubernetes, CI/CD Pipelines, Linux, Git & GitHub, FastAPI, Streamlit
+
+### 🗄 Databases
+PostgreSQL, MySQL, MongoDB, Pinecone, ChromaDB, Vector Databases
+
+### 🔌 API & Backend Development
+REST APIs, OpenAI API, AI Service Integration, Backend Architecture, Microservices
 
 ---
 
-### 🧠 Smart Chatbot System
-A conversational AI chatbot built using NLP and machine learning for customer support automation.
+## 🎓 Education
+
+- **Biruni University**  
+  Bachelor of Computer Engineering (2021 – 2025)
+
+- **Harvard University (CS50x)**  
+  Introduction to Computer Science (2025 – 2026)
 
 ---
 
-### 📊 Recommendation System
-A machine learning-based recommendation engine that personalizes user experiences using behavioral data.
+## 🌍 Languages
+
+- Arabic — C2 (Native / Fluent)  
+- Turkish — C1 (Advanced)  
+- English — C1 (Advanced)  
 
 ---
 
-### 📄 AI Content Generator
-A Generative AI tool that creates articles, marketing content, and social media posts automatically.
+## 💼 Work Experience
+
+### 🚀 NextGen Artificial Intelligence Solutions  
+**Senior AI Engineer | 2023 – 2026**
+
+- Led enterprise AI systems serving thousands of users globally  
+- Built Generative AI applications using LLMs, RAG, and automation frameworks  
+- Developed AI assistants, NLP systems, and predictive models  
+- Integrated OpenAI APIs, vector databases, and LangChain  
+- Optimized deep learning models for performance and scalability  
+- Managed CI/CD pipelines using Docker and Kubernetes  
+- Mentored junior engineers and contributed to architecture design  
 
 ---
 
-### 🖼️ Image Classification Model
-A deep learning model using CNNs for object detection and image classification tasks.
+### 🧠 VisionTech Innovations  
+**AI Solutions Architect | 2020 – 2023**
+
+- Designed scalable AI architectures for automation and recommendation systems  
+- Built conversational AI systems using NLP and transformer models  
+- Developed real-time analytics and business intelligence pipelines  
+- Implemented AWS cloud-based AI infrastructure  
+- Improved model performance through optimization techniques  
+- Led AI research and enterprise transformation initiatives  
+
+---
+
+### 📊 DataCore Technologies  
+**Machine Learning Engineer | 2019 – 2020**
+
+- Built ML models for classification, prediction, and fraud detection  
+- Developed scalable data pipelines and automation workflows  
+- Implemented deep learning models for NLP and computer vision  
+- Deployed machine learning models into production environments  
+- Integrated AI systems into web and mobile applications  
+
+---
+
+## 🧩 Competencies
+
+Strong expertise in Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models (LLMs). Experienced in designing scalable AI systems, deploying production-ready applications, building intelligent automation platforms, and managing full AI development lifecycles.
+
+Skilled in AI architecture design, API integration, cloud deployment, and performance optimization. Strong problem-solving abilities, technical leadership, and experience working in fast-paced engineering environments.
+
+---
+
+## 📜 Certifications
+
+- Machine Learning Engineer Certification  
+- Deep Learning Specialization  
+- Generative AI Engineering Certification  
+- Advanced NLP Certification  
+- AWS Cloud Practitioner  
+- TensorFlow Developer Certification  
+- AI Product Development Certification  
+- Data Science Professional Certification  
+
+---
+
+## 🚀 Projects
+
+### 🤖 Enterprise AI Assistant Platform  
+AI system for document analysis, intelligent search, automation, and conversational AI using LLMs and RAG architecture.
+
+---
+
+### 🧠 Generative AI Content Engine  
+AI platform for generating marketing content, reports, and automated business communication using transformer models.
+
+---
+
+### 📊 Intelligent Recommendation System  
+Machine learning system for personalized recommendations based on user behavior analysis.
+
+---
+
+### 🛡 AI-Powered Fraud Detection System  
+Real-time fraud detection system using anomaly detection and machine learning models.
+
+---
+
+### 👁 Computer Vision Analytics Platform  
+Deep learning-based system for image recognition and object detection.
+
+---
+
+### 🌐 NLP Automation Suite  
+Advanced NLP system for sentiment analysis, classification, and multilingual text processing.
 
 ---
 
 ## 🎯 Goals
 
-- Build scalable AI systems used in real-world applications  
-- Work on advanced LLM-based applications and AI agents  
-- Contribute to open-source AI projects  
-- Grow as a Senior AI Engineer  
+- Build advanced AI systems and LLM-based applications  
+- Contribute to enterprise-level AI solutions  
+- Develop scalable and production-ready AI products  
+- Grow as a Senior AI Engineer in global tech companies  
 
 ---
 
-## 📫 Contact Me
+## ⚡ Notes
 
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+This repository represents my professional experience, technical skills, and projects in AI Engineering and Full Stack Development.
 
----
-
-## ⚡ Fun Fact
-
-I believe the future of software is AI-driven, and I'm passionate about building that future.
+Always open to collaboration, freelance opportunities, and innovative AI projects.
