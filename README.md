@@ -1,181 +1,111 @@
-# 👋 Hi, I'm Abdullah Seraj Alddin
+# 🤖 AI Engineer | Full Stack Developer
 
-💻 Full Stack Developer (Front-End & Back-End)  
-🚀 Passionate about building scalable, high-performance web applications  
-🎯 Focused on clean code, great UX, and modern web technologies  
+Welcome to my GitHub profile!  
+I am an AI Engineer and Full Stack Developer focused on building intelligent, scalable, and production-ready applications using Artificial Intelligence and modern software engineering practices.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Full Stack Developer** with strong experience in building responsive and scalable web applications using modern JavaScript technologies.
+I specialize in developing AI-powered systems that combine Machine Learning, Large Language Models (LLMs), and full-stack development. My goal is to build real-world solutions that improve automation, decision-making, and user experience.
 
-I enjoy transforming ideas into powerful digital solutions and continuously improving performance, usability, and system architecture.
+I enjoy working on end-to-end projects — from backend systems and APIs to AI models and user interfaces.
 
-- 🎓 Bachelor's in Computer Engineering (2021 – 2025)
-- 🌍 Based in Istanbul, Turkey
-- 🧠 Always learning new technologies
-- 🤝 Team player with strong collaboration skills
+---
+
+## 🧠 Core Interests
+
+- Artificial Intelligence (AI)
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Generative AI
+- Full Stack Web Development
+- AI Automation Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 👨‍💻 Programming Languages
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+### 🤖 AI / ML
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Hugging Face
+- LangChain
+
+### 🌐 Backend & APIs
+- FastAPI
+- Node.js
+- REST APIs
+- OpenAI API
+
+### 🎨 Frontend
 - React.js
 - Next.js
-- TypeScript
-- Redux Toolkit
-- Tailwind CSS
-- Material UI (MUI)
-- Bootstrap
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- HTML / CSS
 
-### Backend
-- Node.js
-- Express.js
-- RESTful APIs
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools & Others
+### ☁️ Tools & DevOps
 - Git & GitHub
-- Swagger API Docs
-- JWT Authentication
-- Responsive Design
-- Performance Optimization
+- Docker
+- Linux
+- AWS Basics
+- CI/CD
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### ⚖️ Legal Practice Management Dashboard
-
-A full-featured web platform designed for law firms to manage:
-
-- Case tracking  
-- Client management  
-- Appointments  
-- Financial reports  
-- Document organization  
-
-**Tech Used:**
-React.js, Redux Toolkit, TailwindCSS, REST APIs  
-
-**Key Features:**
-- Real-time dashboard  
-- Automation tools  
-- Responsive UI  
-- High-performance architecture  
+### 🤖 AI Assistant Platform
+An AI-powered assistant that uses LLMs and RAG architecture to answer questions, analyze documents, and automate tasks.
 
 ---
 
-### 🛍️ Emplorium Web App
-
-Interactive platform for managing and showcasing products and services.
-
-**Highlights:**
-- ⚡ Improved performance by **35%**
-- 🔎 Dynamic filtering & search
-- 📱 Mobile-friendly interface
-
-**Tech Used:**
-Next.js, MUI, JavaScript  
+### 🧠 Smart Chatbot System
+A conversational AI chatbot built using NLP and machine learning for customer support automation.
 
 ---
 
-### 🐾 Ekat.ae — E-commerce Platform
-
-Professional e-commerce system with full admin control.
-
-**Features:**
-- Secure payments  
-- Inventory management  
-- Order tracking  
-- Admin dashboard  
-
-**Tech Used:**
-Next.js, Node.js, MongoDB, TailwindCSS  
+### 📊 Recommendation System
+A machine learning-based recommendation engine that personalizes user experiences using behavioral data.
 
 ---
 
-### 🔢 MyNumber Marketplace
-
-Marketplace for buying and selling:
-
-- License plates  
-- Rare phone numbers  
-
-**Features:**
-- Advanced search filters  
-- User authentication  
-- Admin dashboard  
-
-**Tech Used:**
-Next.js, Express.js, MongoDB  
+### 📄 AI Content Generator
+A Generative AI tool that creates articles, marketing content, and social media posts automatically.
 
 ---
 
-### 🗂️ Task Manager API
-
-RESTful API for task and user management.
-
-**Features:**
-- JWT Authentication  
-- Swagger Documentation  
-- Optimized database queries  
-
-**Tech Used:**
-Node.js, Express.js, MongoDB  
-
----
-
-## 📜 Certifications
-
-- freeCodeCamp — Front End Development Libraries  
-- freeCodeCamp — JavaScript Algorithms and Data Structures  
-- SoloLearn — Web Development  
-- Harvard University — CS50x (In Progress)
-
----
-
-## 🌐 Portfolio & Links
-
-- 🌍 Portfolio: https://sarajs.online  
-- 💼 GitHub: https://github.com/AbdullahSeraj  
-- 📧 Email: serajs.net@gmail.com  
-- 📱 WhatsApp: https://wa.me/905013362511  
-
----
-
-## 🌍 Languages
-
-- Arabic — C2  
-- Turkish — C1  
-- English — C1  
+### 🖼️ Image Classification Model
+A deep learning model using CNNs for object detection and image classification tasks.
 
 ---
 
 ## 🎯 Goals
 
-- Build scalable SaaS platforms  
-- Contribute to open-source projects  
-- Master advanced system architecture  
-- Grow as a senior full-stack engineer  
+- Build scalable AI systems used in real-world applications  
+- Work on advanced LLM-based applications and AI agents  
+- Contribute to open-source AI projects  
+- Grow as a Senior AI Engineer  
 
 ---
 
-## ⭐ Let's Connect
+## 📫 Contact Me
 
-I'm always open to:
+- Email: your-email@example.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/your-username  
 
-- Freelance Projects  
-- Remote Work  
-- Collaboration  
-- Open Source Contributions  
+---
 
-Feel free to reach out 🚀
+## ⚡ Fun Fact
+
+I believe the future of software is AI-driven, and I'm passionate about building that future.
